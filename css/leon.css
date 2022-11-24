@@ -9,7 +9,7 @@
   /* End Variables */
 
 
-  
+
 /* Start Global Rules */
 
 *{
@@ -57,9 +57,7 @@ body{
       width: 1170px;
     }
   }
-
-
-  /* End Global Rules */
+/* End Global Rules */
 
 
   /* Start Components */
@@ -204,7 +202,7 @@ body{
 
   /* Start Landing Section */
   .landing {
-    background-image: url(../images/landing.jpg);
+    background-image: url(https://images.pexels.com/photos/1553963/pexels-photo-1553963.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
     background-size: cover;
     height: calc(100vh - 64px);
     position: relative;
