@@ -202,7 +202,7 @@ body{
 
   /* Start Landing Section */
   .landing {
-    background-image: url(https://images.pexels.com/photos/1553963/pexels-photo-1553963.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-image: url(https://th.bing.com/th/id/R.862a39fab92d58974416aef09ed8af5d?rik=d7554dO3ycOOYw&riu=http%3a%2f%2fimages.unsplash.com%2fphoto-1470790376778-a9fbc86d70e2%3fixlib%3drb-1.2.1%26q%3d80%26fm%3djpg%26crop%3dentropy%26cs%3dtinysrgb%26w%3d1080%26fit%3dmax%26ixid%3deyJhcHBfaWQiOjEyMDd9&ehk=87iQtUKLsguSqrUbZbsBvqpQLNL9Ar%2bZb5ihuZivjG8%3d&risl=&pid=ImgRaw&r=0);
     background-size: cover;
     height: calc(100vh - 64px);
     position: relative;
